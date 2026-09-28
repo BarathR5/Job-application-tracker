@@ -2,6 +2,20 @@
 
 A full-stack web application for tracking job applications, managing application statuses, searching applications, and viewing application statistics.
 
+## Screenshots
+
+### Dashboard
+
+![Job Application Tracker Dashboard](screenshots/dashboard.png)
+
+### Applications and Advanced Filtering
+
+![Applications and Advanced Filtering](screenshots/applications.png)
+
+### Add Application
+
+![Add Application](screenshots/add-application.png)
+
 ## Features
 
 - Add new job applications
